@@ -1,6 +1,6 @@
 import 'package:flutter_weather_app/services/location.dart';
 import 'network.dart';
-const apiKey = 'b711735f805945fd3737d3cb940bc035';
+const apiKey = 'Your Api Key';
 const domain = 'api.openweathermap.org';
 const unEn = '/data/2.5/weather';
 
